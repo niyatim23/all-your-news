@@ -1,0 +1,46 @@
+.my-paragraph{
+    background-color: teal;
+}
+
+.card-image {
+    height: 200px;
+    width: 200px;
+}
+
+.main-navbar {
+    background-color: #203259; 
+    background-image: linear-gradient(to right,#182846, #2C437C, #3E5EAF);
+}
+
+.navbar-item-position {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+@media (min-width: 992px){
+    .navbar-r-text {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+    }
+}
+
+.navbar-r-text {
+    color: white;
+}
+
+.search-box {
+    width: 18em;
+}
+
+.spinner {
+    margin: auto;
+    display: block;
+}
+
+.hide-content {
+    display: none;
+}
+
+.show-content {
+    display: block;
+}
